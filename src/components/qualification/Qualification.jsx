@@ -12,7 +12,7 @@ const Qualification = () => {
     };
 
   return (
-    <section className="qualification section">
+    <section className="qualification section" id="qualification">
       <h2 className="section__title"> {t("qualification.qualification__title")} </h2>
       <span className="section__subtitle"> {t("qualification.qualification__subtitle")} </span>
       
@@ -154,6 +154,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Prácticante</h3>
                 <span className="qualification__subtitle">
                   Cali - Carvajal Tecnología & Servicios
+                  <br />
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2023 - Actualidad
@@ -165,7 +166,6 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
             </div>
-
           </div>
         </div>
       </div>

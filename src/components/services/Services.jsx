@@ -46,21 +46,21 @@ const Services = () => {
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Servicio1
+                                        Diseño visual de la interfaz, que incluye la elección de colores, tipografías, iconos y elementos gráficos.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Servicio2
+                                        Creación de mockups y diseños finales de las páginas.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Servicio3
+                                        Garantizar que el diseño sea adaptable a diferentes dispositivos y tamaños de pantalla.
                                     </p>
                                 </li>
                             </ul>
@@ -93,21 +93,21 @@ const Services = () => {
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Servicio1
+                                        Convertir diseños en código funcional utilizando tecnologías web como HTML, CSS y JavaScript.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Servicio2
+                                        Crear aplicaciones de una sola página que ofrecen una experiencia fluida al usuario.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Servicio3
+                                        Configurar y ejecutar pruebas automatizadas utilizando herramientas como Jest y Testing Library para garantizar la calidad del código y la funcionalidad.
                                     </p>
                                 </li>
                             </ul>
@@ -140,21 +140,21 @@ const Services = () => {
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Servicio1
+                                        Desarrollo de APIs para permitir la comunicación entre el frontend.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Servicio2
+                                        Creación de puntos de conexión que permitan la integración de servicios externos.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Servicio3
+                                        Creación de modelos de datos y esquemas de bases de datos.
                                     </p>
                                 </li>
                             </ul>
