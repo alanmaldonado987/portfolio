@@ -68,5 +68,10 @@
 
     "footer": {
         "footer__copy": "Todos los derechos reservados | Alan Maldonado."
+    },
+
+     "work": {
+        "work__title": "Proyectos personales desarrollados",
+        "work__subtitle": "Portafolio"
     }
 }
