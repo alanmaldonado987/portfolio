@@ -32,28 +32,28 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://www.linkedin.com/in/jbxss/"
+            href="https://www.linkedin.com/in/alan-maldonado-valencia/"
             className="footer__social-link"
             target="_blank"
           >
             <i class="uil uil-linkedin"></i>
           </a>
           <a
-            href="https://github.com/JBxss"
+            href="https://github.com/alanmaldonado987"
             className="footer__social-link"
             target="_blank"
           >
             <i class="uil uil-github"></i>
           </a>
           <a
-            href="https://www.facebook.com/"
+            href="https://www.facebook.com/Alan.Maldonado57"
             className="footer__social-link"
             target="_blank"
           >
             <i class="bx bxl-facebook"></i>
           </a>
           <a
-            href="https://www.instagram.com/"
+            href="https://www.instagram.com/alandmv.ssj/"
             className="footer__social-link"
             target="_blank"
           >
