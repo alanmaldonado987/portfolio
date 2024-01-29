@@ -1,6 +1,6 @@
 import Api from "../../assets/work1.jpg";
 import ChatAPI from "../../assets/ChatAPI.png";
-import Work0 from "../../assets/work1.jpg";
+import Restaurant from "../../assets/Restaurant.png";
 import Work1 from "../../assets/work1.jpg";
 import Work2 from "../../assets/work1.jpg";
 import Work3 from "../../assets/work1.jpg";
@@ -22,8 +22,8 @@ export const projectsData = [
     id: 4,
     image: Work3,
     title: "AnimeList",
-    code: "https://github.com/JBxss/React-Shop",
-    demo: "https://jbxss.github.io/React-Shop/",
+    code: "",
+    demo: "",
     category: "web",
   },
   {
@@ -38,8 +38,16 @@ export const projectsData = [
     id: 2,
     image: Chat,
     title: "Chat Online",
-    code: "https://github.com/JBxss/React-Shop",
-    demo: "https://jbxss.github.io/React-Shop/",
+    code: "",
+    demo: "",
+    category: "web",
+  },
+  {
+    id: 20,
+    image: Restaurant,
+    title: "Restaurant Landing Page",
+    code: "https://github.com/alanmaldonado987/Restaurant-Landing-Page",
+    demo: "https://alanmaldonado987.github.io/Restaurant-Landing-Page/",
     category: "web",
   },
   {
