@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7cf6f4ad.css",
-    "main.js": "/portfolio/static/js/main.e192658b.js",
+    "main.js": "/portfolio/static/js/main.48d1c318.js",
     "static/js/787.a2d1897a.chunk.js": "/portfolio/static/js/787.a2d1897a.chunk.js",
     "static/media/Giphy.png": "/portfolio/static/media/Giphy.362552738b630a8b79cc.png",
+    "static/media/Restaurant.png": "/portfolio/static/media/Restaurant.a71c8c85ea73c09de97e.png",
     "static/media/Kronos_Front2.png": "/portfolio/static/media/Kronos_Front2.a0da300de1903568e697.png",
     "static/media/about.jpg": "/portfolio/static/media/about.25037666cca34f8f569a.jpg",
     "static/media/AlanMaldonado_HojaDeVida.pdf": "/portfolio/static/media/AlanMaldonado_HojaDeVida.6c72b1c75d754719f25d.pdf",
@@ -13,11 +14,11 @@
     "static/media/ChatAPI.png": "/portfolio/static/media/ChatAPI.76a3fc7589823722c0a7.png",
     "index.html": "/portfolio/index.html",
     "main.7cf6f4ad.css.map": "/portfolio/static/css/main.7cf6f4ad.css.map",
-    "main.e192658b.js.map": "/portfolio/static/js/main.e192658b.js.map",
+    "main.48d1c318.js.map": "/portfolio/static/js/main.48d1c318.js.map",
     "787.a2d1897a.chunk.js.map": "/portfolio/static/js/787.a2d1897a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cf6f4ad.css",
-    "static/js/main.e192658b.js"
+    "static/js/main.48d1c318.js"
   ]
 }
