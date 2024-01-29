@@ -31,7 +31,7 @@ export const projectsData = [
     image: Giphy,
     title: "Galeria de GIF's",
     code: "https://github.com/alanmaldonado987/giphy",
-    demo: "process",
+    demo: "https://alanmaldonado987.github.io/giphy/",
     category: "web",
   },
   {
