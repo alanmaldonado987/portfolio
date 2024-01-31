@@ -1,10 +1,10 @@
 import Api from "../../assets/work1.jpg";
 import ChatAPI from "../../assets/ChatAPI.png";
 import Restaurant from "../../assets/Restaurant.png";
-import Work1 from "../../assets/work1.jpg";
-import Work2 from "../../assets/work1.jpg";
+import CofeeLanding from "../../assets/coffe_landing.png";
+import WebDesign from "../../assets/web_design.png";
 import Work3 from "../../assets/work1.jpg";
-import Work4 from "../../assets/work1.jpg";
+import Tictactoe from "../../assets/tictactoe.png";
 import Work5 from "../../assets/work1.jpg";
 import Work7 from "../../assets/work1.jpg";
 import Work8 from "../../assets/work1.jpg";
@@ -48,6 +48,30 @@ export const projectsData = [
     title: "Restaurant Landing Page",
     code: "https://github.com/alanmaldonado987/Restaurant-Landing-Page",
     demo: "https://alanmaldonado987.github.io/Restaurant-Landing-Page/",
+    category: "web",
+  },
+  {
+    id: 21,
+    image: WebDesign,
+    title: "Diseño Web Landing Page",
+    code: "https://github.com/alanmaldonado987/landingpage",
+    demo: "https://alanmaldonado987.github.io/landingpage/#",
+    category: "web",
+  },
+  {
+    id: 19,
+    image: CofeeLanding,
+    title: "Coffe Shop",
+    code: "https://github.com/alanmaldonado987/coffe-landing",
+    demo: "https://alanmaldonado987.github.io/coffe-landing/",
+    category: "web",
+  },
+  {
+    id: 22,
+    image: Tictactoe,
+    title: "Tic-tac-toe",
+    code: "https://github.com/alanmaldonado987/tic-tac-toe",
+    demo: "https://alanmaldonado987.github.io/tic-tac-toe/",
     category: "web",
   },
   {
