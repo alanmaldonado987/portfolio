@@ -1,24 +1,27 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7cf6f4ad.css",
-    "main.js": "/portfolio/static/js/main.2044f677.js",
+    "main.js": "/portfolio/static/js/main.e757624f.js",
     "static/js/787.a2d1897a.chunk.js": "/portfolio/static/js/787.a2d1897a.chunk.js",
     "static/media/Giphy.png": "/portfolio/static/media/Giphy.362552738b630a8b79cc.png",
     "static/media/Restaurant.png": "/portfolio/static/media/Restaurant.a71c8c85ea73c09de97e.png",
+    "static/media/coffe_landing.png": "/portfolio/static/media/coffe_landing.9733c0de8a6814b23d76.png",
+    "static/media/web_design.png": "/portfolio/static/media/web_design.593db178e5ecbb7e036d.png",
     "static/media/Kronos_Front2.png": "/portfolio/static/media/Kronos_Front2.a0da300de1903568e697.png",
     "static/media/about.jpg": "/portfolio/static/media/about.25037666cca34f8f569a.jpg",
     "static/media/AlanMaldonado_HojaDeVida.pdf": "/portfolio/static/media/AlanMaldonado_HojaDeVida.6c72b1c75d754719f25d.pdf",
     "static/media/foto.jpg": "/portfolio/static/media/foto.460ab72208ec2d8adb1f.jpg",
     "static/media/Chat.png": "/portfolio/static/media/Chat.de72eb2ac3f480c11626.png",
+    "static/media/tictactoe.png": "/portfolio/static/media/tictactoe.3635374dcdc9319242ea.png",
     "static/media/work1.jpg": "/portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "static/media/ChatAPI.png": "/portfolio/static/media/ChatAPI.76a3fc7589823722c0a7.png",
     "index.html": "/portfolio/index.html",
     "main.7cf6f4ad.css.map": "/portfolio/static/css/main.7cf6f4ad.css.map",
-    "main.2044f677.js.map": "/portfolio/static/js/main.2044f677.js.map",
+    "main.e757624f.js.map": "/portfolio/static/js/main.e757624f.js.map",
     "787.a2d1897a.chunk.js.map": "/portfolio/static/js/787.a2d1897a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cf6f4ad.css",
-    "static/js/main.2044f677.js"
+    "static/js/main.e757624f.js"
   ]
 }
